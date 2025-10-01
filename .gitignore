@@ -1,0 +1,24 @@
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Generated data files
+*.dat
+
+# OS files
+.DS_Store
+Thumbs.db
